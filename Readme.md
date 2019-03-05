@@ -1,0 +1,3 @@
+- [ ] Download tensor flow models repository - https://github.com/tensorflow/models
+- [ ] Change path names accordingly in the run_TF_test.py script for models/object_detection directory, labelmap.pbtxt file and the trained inference graph.
+- [ ] Run the above script to start object detection, boxes will appear only for tennis balls and the min and max coordinates will be returned.
